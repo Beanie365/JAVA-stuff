@@ -1,0 +1,3 @@
+The manufacturer of the cellphone is Sony
+ The model of the phone is Xperia
+ The price of the phone is R7500.0
